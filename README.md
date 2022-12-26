@@ -1,7 +1,7 @@
 # Data Mining и исследование данных
 ## Лабораторная работа 1
 ### Вариант 2
-#### Выполнил: студент
+#### Выполнил: студент Айюк Эммануель Арамп
 #### Группа М10-415Бки
 
 In this laboratory work, I analyzed the data, on the basis of which a classification model can be built in the future that determines whether a patient has diabetes or not. Dataset analysis included:
